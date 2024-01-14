@@ -1,4 +1,4 @@
-# Docker Knowledge Hub
+# Docker Knowledge Hub 🐳
 
 Welcome to the Docker Knowledge Hub repository! This extensive guide is crafted to enrich your understanding of Docker, covering fundamental concepts, command-line usage, deep dives into various commands, handling Docker images, managing storage, networking, and utilizing Docker Compose effectively.
 
@@ -18,7 +18,7 @@ Welcome to the Docker Knowledge Hub repository! This extensive guide is crafted 
 
 7. [Docker Compose](./7-Docker_Compose/README.md): Harness the power of Docker Compose to define and manage multi-container applications effortlessly.
 
-## Getting Started
+## Getting Started 🐋
 
 Follow the links above to access detailed documentation for each section. Whether you're a beginner or an experienced Docker user, this repository aims to provide a comprehensive resource for expanding your Docker knowledge.
 
